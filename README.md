@@ -10,7 +10,27 @@ See the  <a href="https://docs.google.com/document/d/1fLxzQsULTv43umIhpB9Gv3Gi7a
 
 
 ## How to Contribute to Fira
-If you're interested in contributing, see our  <a href="https://docs.google.com/document/d/1QfxweGktJEdBvbd94y-5hiyqu32U9-h_ICPVs76Niyw/edit">Fira Contribution Documentation</a>. Please add your comments or questions within the document.
+l[[[https://github.com/mozilla/Fira/tree/master/source/glyph
+How to Contribute to Fira
+Mozilla’s Open Source Typefacere
+
+
+
+request
+
+Have a look at Mozilla’s Fira Roadmap, to see if your proposed contribution already planned. 
+
+
+Contact Patryk Adamczyk (padamczyk@mozilla.com) to see how your proposed contribution can be integrated看见了看个一个一还会发给个有hi欧hi个比会偶广佛v湖滨路个会哦该一毕海波UI海哥个够通过一笔欧  into the typeface family and what its timing will be.
+Fira is designed and compiled using Glyphs, so the prospective contributor will need to either purchase a copy (https://www.glyphsapp.com/buy) or provide a contribution in a format that Glyphs can read (eg, UFO or OTF) using another font editor (eg FontForge http://fontforge.org)
+The contributor should work with the latest Fira GLYPHS source files found here: https://github.com/mozilla/Fira/tree/master/source/glyph
+Once the contribution is complete, Ralph Carrois’ team will take the contributed GLYPHS source and integrate it with the Fira master source.
+The contribution will be released in the next Fira update.ทดสอบ
+Sdadsa 
+
+Javascript test
+asdf
+
 
 
 ## Usage
