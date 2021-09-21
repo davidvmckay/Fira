@@ -61,3 +61,6 @@ Use this font on your website!
 ```html
 <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
 ```
+
+## External Resources
+- https://medium.com/@aitareydesign/understanding-of-font-formats-ttf-otf-woff-eot-svg-e55e00a1ef2#:~:text=WOFF%20is%20basically%20OTF%20or,to%20live%20on%20the%20web.&text=The%20WOFF2%20format%20offers%20a,the%20wide%20support%20of%20WOFF.
